@@ -1,0 +1,26 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "package"
+  ],
+  "author": "Juan Sáez García <contacto@juamber.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "webpack": "^5.65.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.5.0"
+  }
+}
