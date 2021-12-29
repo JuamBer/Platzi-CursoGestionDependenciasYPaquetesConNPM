@@ -11,5 +11,5 @@ El Repositorio [random-messages-juamber](https://github.com/JuamBer/random-messa
 
 ## Certificación 🎓
 
-![Certificación](https://github.com/JuamBer/CursoKotlin/blob/master/img-licencia/diploma-npm.jpg)
+![Certificación](https://github.com/JuamBer/Platzi-CursoGestionDependenciasYPaquetesConNPM/blob/master/img-licencia/diploma-npm.jpg)
 
